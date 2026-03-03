@@ -48,12 +48,12 @@ Senior AI Engineer based in Jeddah, Saudi Arabia. I design and ship end-to-end A
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [chess-ai](https://github.com/Hashem-Al-Qurashi/chess-ai) | Web chess game with AI opponent — minimax with alpha-beta pruning | React, TypeScript |
 | [arabic-legal-ai](https://github.com/Hashem-Al-Qurashi/arabic-legal-ai) | Arabic Legal Assistant powered by DeepSeek & FastAPI | Python, FastAPI, DeepSeek |
 | [ai-chatbot-builder](https://github.com/Hashem-Al-Qurashi/ai-chatbot-builder) | Multi-model chatbot builder with doc ingestion & integrations | Python, LLM APIs, RAG |
 | [lyo-saas-production](https://github.com/Hashem-Al-Qurashi/lyo-saas-production) | Restaurant/Salon booking assistant — full SaaS platform | Python, Full Stack |
 | [ai-memory-chat](https://github.com/Hashem-Al-Qurashi/ai-memory-chat) | Chat system with evolving AI memory and adaptive responses | Python, LLM |
 | [vapi-agent-dashboard](https://github.com/Hashem-Al-Qurashi/vapi-agent-dashboard) | Voice AI agent management dashboard | TypeScript, VAPI |
-| [sales-ai-system](https://github.com/Hashem-Al-Qurashi/sales-ai-system) | AI-powered sales automation with lead scoring & outreach | Python, LLM |
 
 ---
 
